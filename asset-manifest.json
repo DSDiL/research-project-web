@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/research-project-web/static/css/main.cca18830.css",
+    "main.css": "/research-project-web/static/css/main.03d3c195.css",
     "main.js": "/research-project-web/static/js/main.7ede9cdf.js",
     "static/media/dementia.png": "/research-project-web/static/media/dementia.684b11fc5fcc54223dc2.png",
     "static/media/overvew.jpg": "/research-project-web/static/media/overvew.0c078c5cb9324e52feb6.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/research-project-web/static/media/logo.b5d33856da49bd996864.png",
     "static/media/arrow.svg": "/research-project-web/static/media/arrow.a95ed87ff7ed0c2b691f3afe2b0a9d82.svg",
     "index.html": "/research-project-web/index.html",
-    "main.cca18830.css.map": "/research-project-web/static/css/main.cca18830.css.map",
+    "main.03d3c195.css.map": "/research-project-web/static/css/main.03d3c195.css.map",
     "main.7ede9cdf.js.map": "/research-project-web/static/js/main.7ede9cdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.cca18830.css",
+    "static/css/main.03d3c195.css",
     "static/js/main.7ede9cdf.js"
   ]
 }
