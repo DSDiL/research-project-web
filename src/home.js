@@ -1,5 +1,20 @@
 import React from 'react'
 import './home.css'
+import Logo from './images/logo.png'
+import Doctor from './images/doctor.png'
+import Dementia from './images/dementia.png'
+import Dementia1 from './images/dementia2.jpg'
+import Dementia2 from './images/dementia3.jpg'
+import Overview from './images/overvew.jpg'
+import Arrow from './images/arrow.svg'
+import SS1 from './images/ss1.png'
+import SS2 from './images/ss2.png'
+import SS3 from './images/ss3.png'
+import SS4 from './images/ss4.png'
+import Dilanka from './images/dilanka.png'
+import Anupriya from './images/anupriya.png'
+import Nadun from './images/nadun.png'
+import Ramesh from './images/ramesh.png'
 
 const Home = () => {
   return (
@@ -8,8 +23,7 @@ const Home = () => {
         <header data-thq="thq-navbar" className="home-navbar">
           <div className="home-left">
             <img
-              alt="image"
-              src="/images/logo.png"
+              src={Logo}
               className="home-logo"
             />
             <nav className="home-links">
@@ -51,7 +65,7 @@ const Home = () => {
           <div className="home-image11">
             <img
               alt="image"
-              src="images/doctor.png"
+              src={Doctor}
               className="home-image12"
             />
           </div>
@@ -148,7 +162,7 @@ const Home = () => {
               <div className="home-image23">
                 <img
                   alt="image"
-                  src="/images/dementia.png"
+                  src={Dementia}
                   className="home-image24"
                 />
               </div>
@@ -168,7 +182,7 @@ const Home = () => {
               <div className="home-image26">
                 <img
                   alt="image"
-                  src="/images/dementia2.jpg"
+                  src={Dementia1}
                   className="home-image27"
                 />
               </div>
@@ -192,7 +206,7 @@ const Home = () => {
               <div className="home-imae28">
                 <img
                   alt="image"
-                  src="/images/overvew.jpg"
+                  src={Overview}
                   className="home-imae29"
                 />
               </div>
@@ -216,7 +230,7 @@ const Home = () => {
               <div className="home-image23">
                 <img
                   alt="image"
-                  src="/images/dementia3.jpg"
+                  src={Dementia2}
                   className="home-image24"
                 />
               </div>
@@ -261,7 +275,7 @@ const Home = () => {
                 <a href="https://mysliit.sharepoint.com/:p:/s/CDAPSubmissionCloud/EdTi3g8dhc1DmQEAzwXYbdwB2K4B-_v2ASivDmuePnW1RQ?e=6ZLrgq" target="_blank">
                   <div className="read-more">
                     <span className="practice-text">Presentation Slides</span>
-                    <img alt="image" src="/images/arrow.svg" className="practice-image" />
+                    <img alt="image" src={Arrow} className="practice-image" />
                   </div>
                 </a>
               </div>
@@ -275,7 +289,7 @@ const Home = () => {
                 <a href="https://mysliit.sharepoint.com/:p:/s/CDAPSubmissionCloud/ESiB_xjFR_FAhrQw9CDCwa0B1pWZ3BIePx2mzYMSXJ0xog?e=O1ljJU" target="_blank">
                   <div className="read-more">
                     <span className="practice-text">Presentation Slides</span>
-                    <img alt="image" src="/images/arrow.svg" className="practice-image" />
+                    <img alt="image" src={Arrow} className="practice-image" />
                   </div>
                 </a>
               </div>
@@ -289,7 +303,7 @@ const Home = () => {
                 <a href="https://mysliit.sharepoint.com/:p:/s/CDAPSubmissionCloud/EYYjTa7-CnVEjDlqJKcDVtwBJlFhX_UpsRB5ho1zyuezeQ?e=iAWuOC" target="_blank">
                   <div className="read-more">
                     <span className="practice-text">Presentation Slides</span>
-                    <img alt="image" src="/images/arrow.svg" className="practice-image" />
+                    <img alt="image" src={Arrow} className="practice-image" />
                   </div>
                 </a>
               </div>
@@ -303,7 +317,7 @@ const Home = () => {
                 <a href="https://mysliit.sharepoint.com/:p:/s/CDAPSubmissionCloud/ERURMNL9nIBDgVqUnDI8hOcB51JPtRE4paFGKEX-L180aA?e=3m02zX" target="_blank">
                   <div className="read-more">
                     <span className="practice-text">Presentation Slides</span>
-                    <img alt="image" src="/images/arrow.svg" className="practice-image" />
+                    <img alt="image" src={Arrow} className="practice-image" />
                   </div>
                 </a>
               </div>
@@ -333,7 +347,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          <img alt="image" src="/images/ss1.png" className="home-image15" />
+          <img alt="image" src={SS1} className="home-image15" />
         </div>
         <div id="command" className="home-section7">
           <div className="home-content05">
@@ -354,7 +368,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          <img alt="image" src="/images/ss2.png" className="home-image17" />
+          <img alt="image" src={SS2} className="home-image17" />
         </div>
         <div id="hand" className="home-section6">
           <div className="home-content04">
@@ -375,7 +389,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          <img alt="image" src="/images/ss3.png" className="home-image15" />
+          <img alt="image" src={SS3} className="home-image15" />
         </div>
         <div id="speak" className="home-section7">
           <div className="home-content05">
@@ -397,7 +411,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          <img alt="image" src="/images/ss4.png" className="home-image17" />
+          <img alt="image" src={SS4} className="home-image17" />
         </div>
       </section>
       <section id="team" className="home-meet">
@@ -412,7 +426,7 @@ const Home = () => {
             <div className="doctor-doctor">
               <img
                 alt="image"
-                src="/images/dilanka.png"
+                src={Dilanka}
                 className="doctor-image"
               />
               <div className="doctor-heading">
@@ -429,7 +443,7 @@ const Home = () => {
             <div className="doctor-doctor">
               <img
                 alt="image"
-                src="/images/anupriya.png"
+                src={Anupriya}
                 className="doctor-image"
               />
               <div className="doctor-heading">
@@ -446,7 +460,7 @@ const Home = () => {
             <div className="doctor-doctor">
               <img
                 alt="image"
-                src="/images/nadun.png"
+                src={Nadun}
                 className="doctor-image"
               />
               <div className="doctor-heading">
@@ -463,7 +477,7 @@ const Home = () => {
             <div className="doctor-doctor">
               <img
                 alt="image"
-                src="/images/ramesh.png"
+                src={Ramesh}
                 className="doctor-image"
               />
               <div className="doctor-heading">
@@ -514,7 +528,7 @@ const Home = () => {
           <div className="home-brand">
             <img
               alt="image"
-              src="/images/logo.png"
+              src={Logo}
               className="home-image32"
             />
           </div>
