@@ -1,13 +1,28 @@
 {
   "files": {
     "main.css": "/research-project-web/static/css/main.cca18830.css",
-    "main.js": "/research-project-web/static/js/main.0213b5b4.js",
+    "main.js": "/research-project-web/static/js/main.7453fafe.js",
+    "static/media/dementia.png": "/research-project-web/static/media/dementia.684b11fc5fcc54223dc2.png",
+    "static/media/overvew.jpg": "/research-project-web/static/media/overvew.0c078c5cb9324e52feb6.jpg",
+    "static/media/dementia2.jpg": "/research-project-web/static/media/dementia2.1fa7555303285f638c8e.jpg",
+    "static/media/anupriya.png": "/research-project-web/static/media/anupriya.f6f0d2980be84bcf13a1.png",
+    "static/media/nadun.png": "/research-project-web/static/media/nadun.ca844f9dd8161740961c.png",
+    "static/media/ramesh.png": "/research-project-web/static/media/ramesh.8d796350eda0caabae96.png",
+    "static/media/ss4.png": "/research-project-web/static/media/ss4.bbbc769d66164ea0bbe0.png",
+    "static/media/dilanka.png": "/research-project-web/static/media/dilanka.911bb07306bbaf3a50f2.png",
+    "static/media/ss3.png": "/research-project-web/static/media/ss3.af91d37afe1a3bc24f54.png",
+    "static/media/ss1.png": "/research-project-web/static/media/ss1.2fe49283b642fea0a916.png",
+    "static/media/ss2.png": "/research-project-web/static/media/ss2.8dae71e5fb39765e4cd3.png",
+    "static/media/doctor.png": "/research-project-web/static/media/doctor.a15400fe8d57d646b6c2.png",
+    "static/media/dementia3.jpg": "/research-project-web/static/media/dementia3.baec12feb69f4fad9ecf.jpg",
+    "static/media/logo.png": "/research-project-web/static/media/logo.b5d33856da49bd996864.png",
     "index.html": "/research-project-web/index.html",
+    "static/media/arrow.svg": "/research-project-web/static/media/arrow.a95ed87ff7ed0c2b691f3afe2b0a9d82.svg",
     "main.cca18830.css.map": "/research-project-web/static/css/main.cca18830.css.map",
-    "main.0213b5b4.js.map": "/research-project-web/static/js/main.0213b5b4.js.map"
+    "main.7453fafe.js.map": "/research-project-web/static/js/main.7453fafe.js.map"
   },
   "entrypoints": [
     "static/css/main.cca18830.css",
-    "static/js/main.0213b5b4.js"
+    "static/js/main.7453fafe.js"
   ]
 }
